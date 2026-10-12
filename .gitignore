@@ -1,0 +1,5 @@
+alu_sim
+*.vcd
+*.vvp
+*.out
+*.log
